@@ -1,6 +1,9 @@
 # Starting is better then not
 
 here i recommend the best resources for starting Webapp 
+## JetBrains Rider
+If you don't want to use Windows as a main OS, Rider is the best, this is a tutorial to use it.
+- [Tutorial Rider](https://youtu.be/r-DbaM2IE8g?si=eQHYyKApb6FNLJQW)
 
 ## Foundamental
 I recommend these:
