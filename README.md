@@ -11,6 +11,9 @@ If you don't want to use Windows as a main OS, Rider is the best, this is a tuto
 
 - [Microsoft](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0)
 
+## Important project to start
+- [ASP.NET Core Crash Course - C# App in One Hour](https://www.youtube.com/watch?v=BfEjDD8mWYg)
+
 ## Foundamental
 
 I recommend these:
