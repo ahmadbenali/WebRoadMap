@@ -27,10 +27,6 @@ I recommend these:
 
 - [ASP.NET API](https://youtu.be/tIXbua3zqU8?si=JE5gmTwBl1P_PMOF)
 
-## AWS
-
-## Django
-
 ## Git
 
 - [Git Docmentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
