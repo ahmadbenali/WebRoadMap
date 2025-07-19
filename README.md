@@ -14,11 +14,14 @@ If you don't want to use Windows as a main OS, Rider is the best, this is a tuto
 ## Important project to start
 - [ASP.NET Core Crash Course - C# App in One Hour](https://www.youtube.com/watch?v=BfEjDD8mWYg)
 
-## Foundamental
+## MVC for concepts
 
 I recommend these:
 
 - [ASP.NET core](https://youtu.be/uhI62SkJUXU?si=rgSOHh63QSxyuNNy)
+
+## MVC Crash Course with a simple project
+- [ASP.NET Core Crash Course - C# App in One Hour](https://youtu.be/BfEjDD8mWYg?si=bm9EmCpLEMWYQyKM)
 
 ## API
 
