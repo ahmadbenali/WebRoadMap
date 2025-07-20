@@ -1,6 +1,8 @@
 # Starting is better then not
 
-here i recommend the best resources for starting Webapp **_ASP.NET Framework_**
+here i recommend the best resources for starting Webapp **_ASP.NET Framework and React_**
+
+# ASP.NET 
 
 ## JetBrains Rider
 
@@ -27,9 +29,19 @@ I recommend these:
 
 - [ASP.NET API](https://youtu.be/tIXbua3zqU8?si=JE5gmTwBl1P_PMOF)
 
-## Git
+---
+
+# React
+
+##Documentation
+- [Build App](https://create-react-app.dev/docs/documentation-intro)
+
+--- 
+
+# Git
 
 - [Git Docmentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
+
 
 
 
